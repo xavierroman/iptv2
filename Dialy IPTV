@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="USA",24-7 Retro TV
+http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="USA",My 45 Arizona
 http://51.159.30.124:8000/Salwa/Salwa/4815
